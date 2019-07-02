@@ -9,5 +9,7 @@ public class SwaggerConfig {
 //Bean docket
 	//swagger 2
 	//all the paths
-	//all apis
+	//all apisc 
 }
+
+
